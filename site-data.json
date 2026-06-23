@@ -2,24 +2,24 @@
   "business": {
     "name": "Carpenter Cove",
     "shortName": "Carpenter Cove",
-    "tagline": "Master Craftsmanship in Every Detail",
+    "tagline": "Expert Carpentry in Dallas, TX – Quality Craftsmanship for Every Project",
     "niche": "Carpenter",
     "phone": "(214) 421-0551",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 8:00 AM - 6:00 PM",
-    "ctaLabel": "Schedule a Consultation",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM",
+    "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Expert Carpenter in Dallas, TX | Custom Woodwork & Repairs | Carpenter Cove",
-    "description": "Carpenter Cove offers premium carpentry services in Dallas, TX. From custom cabinets to trim work, we bring precision and artistry to every project. Call (214) 421-0551."
+    "title": "Top-Rated Carpenter in Dallas, TX | Carpenter Cove – Custom Woodwork & Repairs",
+    "description": "Carpenter Cove offers expert carpentry services in Dallas, TX. From custom furniture to home repairs, we deliver precision and quality. Call (214) 421-0551 for a free estimate."
   },
   "home": {
     "hero": {
       "eyebrow": "Dallas's Trusted Carpentry Experts",
-      "headline": "Bringing Your Woodwork Vision to Life",
-      "subheadline": "From intricate custom cabinetry to elegant trim, we craft spaces that blend beauty and function.",
+      "headline": "Crafting Quality Woodwork for Your Home & Business",
+      "subheadline": "From custom built-ins to structural repairs, our skilled carpenters bring precision and passion to every project in Dallas.",
       "primaryCta": "Get a Free Quote",
       "secondaryCta": "View Our Work"
     },
@@ -43,104 +43,104 @@
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Cabinetry",
-        "title": "Tailored Cabinets That Transform Your Space",
-        "body": "Our custom cabinets are designed to fit your exact specifications, maximizing storage and enhancing the aesthetic of any room.",
+        "eyebrow": "Custom Carpentry",
+        "title": "Tailored Woodwork for Your Unique Vision",
+        "body": "Whether you need custom cabinets, built-in shelving, or a unique piece of furniture, we design and build with your style and space in mind.",
         "bullets": [
-          "Premium hardwoods and finishes",
-          "Soft-close hinges and dovetail joints",
-          "Built to your dimensions and style"
+          "Bespoke designs crafted to your specifications",
+          "Premium hardwoods and sustainable materials",
+          "Seamless integration with your existing decor"
         ],
         "reverse": false,
-        "cardLabel": "Feature",
-        "cardTitle": "Built to Last",
-        "cardBody": "Every cabinet is constructed with time-honored joinery techniques for durability that spans generations."
+        "cardLabel": "Featured Service",
+        "cardTitle": "Custom Cabinetry",
+        "cardBody": "Transform your kitchen or bathroom with handcrafted cabinets that maximize storage and elevate the look of your home."
       },
       {
-        "eyebrow": "Trim & Molding",
-        "title": "Elegant Trim That Defines Your Home",
-        "body": "From crown molding to baseboards, our precision trim work adds character and value to your property.",
+        "eyebrow": "Repairs & Restoration",
+        "title": "Bringing New Life to Old Woodwork",
+        "body": "From fixing a squeaky stair to restoring historic trim, our team handles all types of carpentry repairs with care and expertise.",
         "bullets": [
-          "Crown, chair rail, and wainscoting",
-          "Seamless corners and miters",
-          "Primed and painted or stained to match"
+          "Structural repairs for doors, windows, and frames",
+          "Restoration of antique and vintage wood pieces",
+          "Minor fixes to major renovations – no job too small"
         ],
         "reverse": true,
-        "cardLabel": "Detail",
-        "cardTitle": "Perfect Fit",
-        "cardBody": "We measure twice, cut once — ensuring every piece aligns flawlessly with your walls and ceilings."
+        "cardLabel": "Popular Service",
+        "cardTitle": "Door & Window Repair",
+        "cardBody": "Sticking doors, drafty windows, or broken frames? We’ll restore function and beauty to your home’s entry points."
       }
     ],
     "whyTitle": "Why Choose Carpenter Cove?",
     "whyChooseUs": [
       {
-        "title": "Master Craftsmanship",
-        "description": "Our team combines traditional woodworking skills with modern techniques for superior results."
-      },
-      {
-        "title": "Personalized Service",
-        "description": "We listen to your vision and tailor every project to your unique needs and style."
+        "title": "Skilled Craftsmanship",
+        "description": "Our team has years of hands-on experience and a keen eye for detail, ensuring every cut, joint, and finish is flawless."
       },
       {
         "title": "Reliable & Punctual",
-        "description": "We respect your time and complete projects on schedule with minimal disruption."
+        "description": "We respect your time and your home. We show up on schedule, work cleanly, and complete projects on time."
       },
       {
-        "title": "Quality Materials",
-        "description": "We source only the finest woods and hardware to ensure lasting beauty and function."
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprises. We provide detailed quotes upfront and stick to them."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Your satisfaction is our priority. We listen to your needs, offer expert advice, and ensure you love the final result."
       }
     ],
     "testimonials": [
       {
-        "quote": "Carpenter Cove transformed our kitchen with custom cabinets that are both beautiful and functional. The attention to detail was outstanding.",
-        "author": "Sarah M.",
-        "role": "Highland Park Homeowner"
+        "quote": "They transformed our outdated kitchen with beautiful custom cabinets. The quality is outstanding and the team was a pleasure to work with.",
+        "author": "Jessica M.",
+        "role": "Lakewood Homeowner"
       },
       {
-        "quote": "They installed crown molding throughout our living room and the results are stunning. Professional, clean, and on time.",
-        "author": "James R.",
-        "role": "Lakewood Resident"
+        "quote": "We hired Carpenter Cove to restore the original woodwork in our 1920s bungalow. They matched the style perfectly and brought back its charm.",
+        "author": "David R.",
+        "role": "M Streets Resident"
       },
       {
-        "quote": "From the first consultation to the final walkthrough, Carpenter Cove exceeded our expectations. Our new built-in shelves are a work of art.",
-        "author": "Emily T.",
-        "role": "Bishop Arts District Homeowner"
+        "quote": "Prompt, professional, and the craftsmanship is top-notch. Our built-in bookshelf is now the focal point of the living room.",
+        "author": "Amy T.",
+        "role": "Uptown Condo Owner"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Contact us today for a free consultation and estimate.",
-      "primaryCta": "Call (214) 421-0551",
-      "secondaryCta": "Request a Quote"
+      "subheadline": "Contact us today for a free consultation and estimate. Let's bring your vision to life.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (214) 421-0551"
     }
   },
   "servicesPage": {
-    "intro": "From custom cabinetry to detailed trim work, Carpenter Cove offers a full range of carpentry services in Dallas, TX. Each project is handled with precision and care."
+    "intro": "From custom creations to expert repairs, Carpenter Cove offers a full range of carpentry services in Dallas. Each service is tailored to your needs, using premium materials and time-honored techniques."
   },
   "services": [
     {
       "icon": "01",
       "title": "Custom Cabinetry",
-      "shortDescription": "Design and build custom cabinets for kitchens, bathrooms, and more.",
-      "longDescription": "We create bespoke cabinets that maximize storage and elevate your home's design. Using premium materials and expert joinery, our cabinets are built to last a lifetime.",
+      "shortDescription": "Handcrafted cabinets for kitchens, bathrooms, and more – designed to fit your space and style.",
+      "longDescription": "Our custom cabinetry service delivers beautiful, functional storage solutions that maximize your space and reflect your personal taste. We work with you from design to installation, selecting premium woods and finishes that complement your home.",
       "benefits": [
-        "Personalized design to fit your space",
-        "Durable construction with dovetail drawers",
-        "Wide range of wood species and finishes",
-        "Soft-close hardware included"
+        "Fully customized to your dimensions and preferences",
+        "High-quality materials and hardware for lasting durability",
+        "Expert installation ensures perfect fit and function",
+        "Increases home value and appeal"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We discuss your needs, measure your space, and review design options."
+          "description": "We discuss your needs, measure your space, and show you material samples and design options."
         },
         {
-          "title": "Design & Material Selection",
-          "description": "We create detailed plans and help you choose woods, stains, and hardware."
+          "title": "Design & Build",
+          "description": "Our team creates detailed plans and handcrafts your cabinets in our workshop with precision."
         },
         {
           "title": "Installation",
-          "description": "Our team installs your cabinets with precision, ensuring perfect alignment and function."
+          "description": "We carefully install your cabinets, ensuring seamless integration and a flawless finish."
         }
       ],
       "faqs": [
@@ -149,169 +149,172 @@
           "answer": "Typically 4-6 weeks from design approval to installation, depending on complexity."
         },
         {
-          "question": "What types of wood do you use?",
-          "answer": "We offer oak, maple, cherry, walnut, and more. We'll help you choose the best option for your style and budget."
+          "question": "What wood types do you offer?",
+          "answer": "We offer a variety of hardwoods including oak, maple, cherry, and walnut, as well as plywood and MDF options."
         }
       ],
       "slug": "custom-cabinetry"
     },
     {
       "icon": "02",
-      "title": "Trim & Molding",
-      "shortDescription": "Install crown molding, baseboards, and decorative trim.",
-      "longDescription": "Add elegance and value to your home with expert trim installation. Our team handles everything from simple baseboards to intricate crown molding and wainscoting.",
+      "title": "Built-In Shelving & Entertainment Centers",
+      "shortDescription": "Custom built-ins that add character and organization to any room.",
+      "longDescription": "Maximize your wall space with custom built-in shelving, bookcases, and entertainment centers. Our designs are tailored to your storage needs and aesthetic, creating a seamless look that feels like part of the home.",
       "benefits": [
-        "Enhances architectural character",
-        "Seamless corners and joints",
-        "Primed and painted or stained finish",
-        "Increases home value"
+        "Custom fit for any wall or alcove",
+        "Adds architectural interest and storage",
+        "Built to accommodate electronics, books, or decor",
+        "Enhances room functionality and style"
       ],
       "process": [
         {
-          "title": "Assessment",
-          "description": "We evaluate your rooms and recommend trim styles that complement your decor."
+          "title": "Design Consultation",
+          "description": "We visit your home, discuss your vision, and take precise measurements."
         },
         {
-          "title": "Material Preparation",
-          "description": "We select and prepare materials, ensuring they acclimate to your home."
+          "title": "Custom Fabrication",
+          "description": "We build your shelving unit in our shop, using quality materials and joinery."
         },
         {
-          "title": "Installation & Finishing",
-          "description": "We install trim with precision, caulk, and paint or stain for a flawless look."
+          "title": "Professional Installation",
+          "description": "We install the unit securely, with options for painted or stained finishes."
         }
       ],
       "faqs": [
         {
-          "question": "Can you match existing trim?",
-          "answer": "Yes, we can replicate or complement your existing trim profiles for a cohesive look."
+          "question": "Can you match existing trim and molding?",
+          "answer": "Yes, we can replicate or complement your existing millwork for a cohesive look."
         },
         {
-          "question": "How much does trim installation cost?",
-          "answer": "Costs vary by room size and complexity. Contact us for a free estimate."
+          "question": "Do you build around TVs and electronics?",
+          "answer": "Absolutely. We design with cable management and ventilation in mind."
         }
       ],
-      "slug": "trim-molding"
+      "slug": "built-in-shelving-entertainment-centers"
     },
     {
       "icon": "03",
-      "title": "Built-In Shelving",
-      "shortDescription": "Custom built-in shelves for books, decor, and storage.",
-      "longDescription": "Maximize your space with custom built-in shelving that fits your exact needs. Whether for a home library, entertainment center, or display unit, we design and build shelves that blend seamlessly with your home.",
+      "title": "Trim & Molding Installation",
+      "shortDescription": "Expert installation of baseboards, crown molding, wainscoting, and more.",
+      "longDescription": "Add elegance and value to your home with professional trim and molding. Our carpenters specialize in precise cuts and seamless joints, whether you're updating a single room or your entire home.",
       "benefits": [
-        "Custom fit for any nook or wall",
-        "Adjustable or fixed shelves",
-        "Integrated lighting options",
-        "Enhances organization and aesthetics"
+        "Enhances the architectural character of your home",
+        "Hides gaps and imperfections between walls and floors",
+        "Increases property value and curb appeal",
+        "Wide selection of profiles and materials"
       ],
       "process": [
         {
-          "title": "Design",
-          "description": "We work with you to design shelves that meet your storage needs and style."
+          "title": "Material Selection",
+          "description": "We help you choose the right trim style and material to match your home's aesthetic."
         },
         {
-          "title": "Construction",
-          "description": "We build your shelving in our workshop for precision, then finish on-site."
+          "title": "Precision Cutting",
+          "description": "Our team measures and cuts each piece with accuracy for tight, clean joints."
         },
         {
-          "title": "Installation",
-          "description": "We install the shelving securely, ensuring it is level and perfectly aligned."
+          "title": "Installation & Finishing",
+          "description": "We install the trim, fill nail holes, and caulk for a polished, paint-ready finish."
         }
       ],
       "faqs": [
         {
-          "question": "Can you add lighting to built-ins?",
-          "answer": "Absolutely. We can integrate LED strip lighting or puck lights for a dramatic effect."
+          "question": "Do you paint or stain the trim?",
+          "answer": "We install primed or unfinished trim; painting or staining can be arranged upon request."
         },
         {
-          "question": "Do you offer floating shelves?",
-          "answer": "Yes, we build and install floating shelves that appear to hover, with hidden brackets for support."
+          "question": "Can you match existing trim in an older home?",
+          "answer": "Yes, we can source or custom-mill profiles to match historic or unique trim."
         }
       ],
-      "slug": "built-in-shelving"
+      "slug": "trim-molding-installation"
     },
     {
       "icon": "04",
-      "title": "Door & Window Installation",
-      "shortDescription": "Expert installation of interior and exterior doors and windows.",
-      "longDescription": "Proper door and window installation is crucial for energy efficiency and security. Our team ensures a precise fit and smooth operation for all types of doors and windows.",
+      "title": "Door & Window Repair",
+      "shortDescription": "Fix sticking, sagging, or damaged doors and windows quickly and professionally.",
+      "longDescription": "From minor adjustments to full replacements, our door and window repair service restores function and energy efficiency. We fix sticky doors, drafty windows, broken frames, and hardware issues with minimal disruption.",
       "benefits": [
-        "Energy-efficient installation",
-        "Smooth, quiet operation",
-        "Weatherproof sealing",
-        "Enhanced curb appeal"
+        "Improves home comfort and energy efficiency",
+        "Restores ease of operation for doors and windows",
+        "Prevents further damage and security risks",
+        "Cost-effective alternative to full replacement"
       ],
       "process": [
         {
-          "title": "Measurement & Selection",
-          "description": "We take accurate measurements and help you choose the right doors or windows."
+          "title": "Inspection",
+          "description": "We assess the issue, checking alignment, hardware, and weatherstripping."
         },
         {
-          "title": "Preparation",
-          "description": "We remove old units and prepare the opening for a perfect fit."
+          "title": "Repair or Replacement",
+          "description": "We adjust, repair, or replace parts as needed, from hinges to sashes."
         },
         {
-          "title": "Installation & Sealing",
-          "description": "We install and seal the unit, ensuring it is level, plumb, and weathertight."
+          "title": "Testing & Adjustment",
+          "description": "We ensure smooth operation and proper sealing before finishing."
         }
       ],
       "faqs": [
         {
-          "question": "Do you install both interior and exterior doors?",
-          "answer": "Yes, we install all types including prehung, French, sliding, and pocket doors."
+          "question": "Can you fix a door that won't latch?",
+          "answer": "Yes, we can adjust the strike plate, hinges, or frame to ensure proper latching."
         },
         {
-          "question": "How long does a door installation take?",
-          "answer": "Most installations are completed in a single day. Complex projects may take longer."
+          "question": "Do you replace window glass?",
+          "answer": "We can replace broken panes and repair or replace window sashes and frames."
         }
       ],
-      "slug": "door-window-installation"
+      "slug": "door-window-repair"
     }
   ],
   "about": {
-    "headline": "About Carpenter Cove",
-    "mission": "To deliver exceptional carpentry that enhances the beauty and function of every space we touch.",
+    "headline": "Dallas's Trusted Carpentry Team",
+    "mission": "To provide exceptional carpentry services that enhance homes and businesses with quality, precision, and care.",
     "story": [
-      "Carpenter Cove was founded in Dallas with a passion for woodworking and a commitment to quality. Our founder, a master carpenter with over 15 years of experience, started the company to bring custom craftsmanship to homeowners and businesses in the area. From the beginning, we focused on precision, integrity, and personalized service.",
-      "Today, we are a team of skilled artisans who take pride in every project, big or small. We believe that great carpentry transforms a house into a home, and we strive to exceed expectations with every cut, joint, and finish."
+      "Carpenter Cove was founded on a simple belief: every piece of wood deserves respect and every project deserves craftsmanship. What started as a small workshop in Dallas has grown into a full-service carpentry company serving homeowners and businesses across the metro area. Our founder, a master carpenter with over 15 years of experience, built the company on a foundation of hard work, attention to detail, and a passion for creating beautiful, functional spaces.",
+      "Today, we carry that same dedication into every project, whether it's a custom cabinet, a historic restoration, or a simple repair. Our team takes pride in using time-honored techniques combined with modern tools to deliver results that stand the test of time. We believe in building relationships as strong as the structures we create, and we're honored to be a part of Dallas's growing community."
     ],
     "highlight": {
       "stat": "500+",
-      "label": "Happy Clients"
+      "label": "Projects Completed"
     },
     "coreValues": [
       {
-        "title": "Craftsmanship",
-        "description": "We honor the art of woodworking with meticulous attention to detail."
+        "title": "Quality",
+        "description": "We never cut corners. Every joint, finish, and detail meets our high standards."
       },
       {
         "title": "Integrity",
-        "description": "We are honest, transparent, and fair in all our dealings."
+        "description": "We communicate honestly, quote fairly, and stand behind our work."
       },
       {
-        "title": "Customer Focus",
-        "description": "Your satisfaction is our top priority. We listen and deliver."
+        "title": "Creativity",
+        "description": "We love solving design challenges and bringing unique ideas to life."
       },
       {
-        "title": "Continuous Improvement",
-        "description": "We stay updated on the latest techniques and materials to serve you better."
+        "title": "Community",
+        "description": "As a local business, we're committed to serving our neighbors and supporting Dallas."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "Ready to discuss your project? Call or fill out the form below.",
+    "subheadline": "Ready to discuss your project? We're here to help.",
     "primaryCta": "Call (214) 421-0551",
-    "formCta": "Send Message",
+    "formCta": "Send Us a Message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
       "University Park",
       "Lakewood",
-      "Bishop Arts District"
+      "Uptown",
+      "Oak Lawn",
+      "M Streets",
+      "Preston Hollow"
     ]
   },
   "social_proof": {
-    "rating": 3.7,
+    "rating": "",
     "reviews": null
   },
   "meta": {
